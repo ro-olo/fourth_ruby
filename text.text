@@ -1,0 +1,11 @@
+Write a method that will take an array as a parameter
+Return the array as it is if it has 1 or less elements
+Define the length as the size in order to compare it to 1
+Use a loop to iterate through the array and to compare the elements
+Each element should be compared with the next one
+Create a variable so that the loop won't be infinite
+It should stop when nothing is swapped
+It should be true if there is a swap
+The condition could be something like swapped = false
+The loop should happen n-1 times to be sure it's fully ordered
+need a break if not swapped?
